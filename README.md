@@ -6,11 +6,10 @@ Lista de tarefas simples e direta, feita com HTML, CSS e JavaScript puro, sem fr
 
 ## ✨ Funcionalidades
 
-👉 CONFIRMAR e ajustar conforme o código:
 - Adicionar novas tarefas
 - Marcar tarefas como concluídas
 - Remover tarefas
-- Os dados continuam salvos após recarregar a página (localStorage)?
+- Os dados continuam salvos após recarregar a página (localStorage)
 
 ## 🛠️ Tecnologias
 
