@@ -4,8 +4,6 @@ Lista de tarefas simples e direta, feita com HTML, CSS e JavaScript puro, sem fr
 
 🔗 **Demo:** [to-do-list-mu-nine-53.vercel.app](https://to-do-list-mu-nine-53.vercel.app)
 
-![Captura de tela](images/ToDoList.PNG)
-
 ## ✨ Funcionalidades
 
 👉 CONFIRMAR e ajustar conforme o código:
